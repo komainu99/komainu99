@@ -1,6 +1,3 @@
-
-# Welcome to My GitHub Profile! 👋
-
 ## 🚀 About Me
 
 - 🩺 Medical student & Independent Developer
@@ -80,12 +77,6 @@ A web application for creating customizable educational worksheets with automati
 - Human-Machine Interfaces (HMI)
 - Rapid Prototyping
 - Medical & Educational Technology
-
-## 📈 Current Goals
-
-I aim to strengthen my engineering skills across both hardware and software, building practical systems that bridge the physical and digital worlds.
-
-I am particularly interested in the entire development process, from electronic circuit design and hardware prototyping to web application development and system integration.
 
 ## 📊 GitHub Stats
 
